@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Samusev-Anton.github.io/filmoteka",
+  "homepage": "https://OlegAndreiev.github.io/Final-project-JS",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka/"
+    "build": "parcel build src/*.html --public-url /Final-project-JS/"
   },
   "repository": {
     "type": "git",
